@@ -1,0 +1,187 @@
+.header{
+    justify-content: space-between;
+    font-size: 20px;
+    font-family:  monospace;
+    color:rgb(13, 13, 75) ;
+    padding: 10px;
+}
+.origami1{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.origami2{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.origami3{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px; 
+}
+.origami4{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.origami5{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.origami6{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+
+
+.webpage{
+    background-color: rgb(219, 113, 223);
+    border: rgb(7, 7, 77);
+    border-radius: 20px;
+    border-width: 310px;
+    
+}
+.origami1{
+    position:relative
+}
+.origami1 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+.origami1:hover h5{
+    opacity: 1;
+}
+.origami1:hover img{
+    opacity: 0.30;
+}
+
+.origami2{
+    position:relative
+}
+.origami2 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+
+
+.origami2:hover h5{
+    opacity: 1;
+}
+.origami2:hover img{
+    opacity: 0.30;
+}
+
+.origami3{
+    position:relative
+}
+.origami3 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+
+
+.origami3:hover h5{
+    opacity: 1;
+}
+.origami3:hover img{
+    opacity: 0.30;
+}
+
+.origami4{
+    position:relative
+}
+.origami4 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+
+
+.origami4:hover h5{
+    opacity: 1;
+}
+.origami4:hover img{
+    opacity: 0.30;
+}
+
+.origami5{
+    position:relative
+}
+.origami5 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+
+
+.origami5:hover h5{
+    opacity: 1;
+}
+.origami5:hover img{
+    opacity: 0.30;
+}
+
+.origami6{
+    position:relative
+}
+.origami6 h5{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    opacity:0;
+    transform:translate(-50%,-50%)
+}
+
+
+
+.origami6:hover h5{
+    opacity: 1;
+}
+.origami6:hover img{
+    opacity: 0.30;
+}
